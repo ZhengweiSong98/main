@@ -1,14 +1,18 @@
-name: "Yay internet!"
+name: "Contact"
 output_dir: "."
 navbar:
   title: "Home"
   right:
     - text: "About"
       href: about.html
+    - icon: fa-solid fa-file
+      href: CV_Sep2022.pdf   
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/zhengwei-song/
     - icon: fa-envelope fa-lg
       href: mailto:<zs2539@cumc.columbia.com>
     - icon: fa-github fa-lg
       href: http://github.com/charksong/
 output:
   html_document:
-    theme: cerulean
+    theme: lumen

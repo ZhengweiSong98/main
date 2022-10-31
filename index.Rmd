@@ -1,20 +1,23 @@
 ---
-title: "My awesome website"
+title: "Zhengwei Song's website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Zhengwei's awesome website
+# Introduction
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
-This is the image.
-![](images/001.jpg)
+Hello!
+![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hello_To_You.gif)
 
-I use [google](https://www.google.com/) to do all job.
+I am a master student in biostatistics, interested in biomedical applications of data science and statistics. My [Curriculum vitae](CV_Sep2022.pdf), contact info, social media and GitHub homepage are in the top right-hand corner, alternatively, you may see the email address and phone number below.
 
-Here's a direct link to the about page: 
-[about](about.html).
+# Contact
+Tel: +1 (332)-256-6895
+
+Email:<zs2539@cumc.columbia.edu>
+
+A direct link to the [about](about.html) page.
 
 I also made a bonus [extra page](extra_page.html)
