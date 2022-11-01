@@ -21,3 +21,7 @@ Email:<zs2539@cumc.columbia.edu>
 A direct link to the [about](about.html) page.
 
 I also made a bonus [extra page](extra_page.html)
+
+## New Section!!
+
+[Here's](plotly.html) a page with plotly plots
