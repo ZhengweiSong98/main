@@ -8,7 +8,7 @@ navbar:
     - text: "Dashboard"
       href: dashboard.html  
     - icon: fa-solid fa-file
-      href: CV/CV_Sep2022.pdf   
+      href: cv.html   
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/zhengwei-song/
     - icon: fa-envelope fa-lg

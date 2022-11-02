@@ -83,7 +83,8 @@ nyc_inspections_cleaned %>%
           mode = "lines", alpha = .5) %>%
   layout(title =  "Number of B or C grade received restaurant cases over time in NYC boroughs",
          xaxis = list(title = "Date (Year-Month)"),
-         yaxis = list(title = "Cases Count")
+         yaxis = list(title = "Cases Count"),
+         font = list(size = 9)
          )
 ```
 
@@ -91,27 +92,26 @@ nyc_inspections_cleaned %>%
 
 ```{r}
 nyc_inspections_cleaned %>%
-  mutate(year = year(date)) %>%
   plot_ly(x = ~boro, y = ~score, type = "box",
     color = ~boro, alpha = .5) %>%
-  layout(title = "The distribution of restaurant scores in NYC boroughs per year",
+  layout(title = "The distribution of restaurant scores in NYC boroughs over time",
          xaxis = list(title = "Borough"),
-         yaxis = list(title = "Score"))
-
+         yaxis = list(title = "Score"),
+         font = list(size = 9))
 ```
 
 ## Finally bar plot
 
 ```{r}
 nyc_inspections_cleaned %>% 
-  mutate(year = year(date)) %>%
-  group_by(year, boro, grade) %>%
+  group_by(boro, grade) %>%
   summarize(count = n()) %>%
   ungroup() %>%
   plot_ly(x = ~boro, y = ~count, color = ~grade, 
-          type = "bar", alpha = 0.7) %>% 
+          type = "bar", alpha = .7) %>% 
   layout(title = 
-           "Number of restaurant cases by grade level in NYC Boroughs",
+           "Number of restaurant cases by grade level over time in NYC Boroughs",
          xaxis = list(title = "Borough"),
-         yaxis = list(title = "Count"))
+         yaxis = list(title = "Cases Count"),
+         font = list(size = 9))
 ```
