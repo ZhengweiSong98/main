@@ -95,7 +95,6 @@ Column {data-width=500}
 
 ```{r}
 nyc_inspections_cleaned %>%
-  mutate(year = year(date)) %>%
   plot_ly(x = ~boro, y = ~score, type = "box",
     color = ~boro, alpha = .5) %>%
   layout(title = "The distribution of restaurant scores in NYC boroughs per year",
@@ -108,13 +107,11 @@ nyc_inspections_cleaned %>%
 
 ```{r}
 nyc_inspections_cleaned %>% 
-  mutate(year = year(date),
-         text_label = str_c("Grade: ", grade)) %>%
-  group_by(year, boro, grade) %>%
+  group_by(boro, grade) %>%
   summarize(count = n()) %>%
   ungroup() %>%
   plot_ly(x = ~boro, y = ~count, color = ~grade, 
-          type = "bar", alpha = 0.7) %>% 
+          type = "bar", alpha = .7) %>% 
   layout(title = 
            "Number of restaurant cases by grade level over time in NYC Boroughs",
          xaxis = list(title = "Borough"),
