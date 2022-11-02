@@ -97,7 +97,7 @@ Column {data-width=500}
 nyc_inspections_cleaned %>%
   plot_ly(x = ~boro, y = ~score, type = "box",
     color = ~boro, alpha = .5) %>%
-  layout(title = "The distribution of restaurant scores in NYC boroughs per year",
+  layout(title = "The distribution of restaurant scores in NYC boroughs over time",
          xaxis = list(title = "Borough"),
          yaxis = list(title = "Score"),
          font = list(size = 9))
