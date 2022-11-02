@@ -108,7 +108,8 @@ nyc_inspections_cleaned %>%
 
 ```{r}
 nyc_inspections_cleaned %>% 
-  mutate(year = year(date)) %>%
+  mutate(year = year(date),
+         text_label = str_c("Grade: ", grade)) %>%
   group_by(year, boro, grade) %>%
   summarize(count = n()) %>%
   ungroup() %>%
