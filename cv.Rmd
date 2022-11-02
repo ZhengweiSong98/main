@@ -55,8 +55,8 @@ Elements of Algebra and Geometry
 
 ### RESEARCH EXPERIENCES
 - **Roche Innovation Center Basel, Switzerland** [Online]{style="float:right"}   
-  **R package development for Joint Models Predicting Overall Survival Trajectories**  [*2022.6 – Present*]{style="float:right"}
-  [*Volunteer Associate, led by Sr. Prin. Data Scientist Daniel Sabanes Bove*]{style="float:left"}
+  **R package development for Joint Models Predicting Overall Survival Trajectories**  [2022.6 – Present]{style="float:right"}
+  - *Volunteer Associate, led by Sr. Prin. Data Scientist Daniel Sabanes Bove*
   - Code R project based on S3&S4 functions for calling RStan
   - Study non-linear mixed effects models for the tumor size over time, correlating with overall survival
   - Simulate Clinical Data by Bayesian inference using Hamiltonian Monte-Carlo
@@ -64,8 +64,8 @@ Elements of Algebra and Geometry
 &NewLine;
 
 - **Faculty of Applied Mathematics, UoM** [Manchester, UK]{style="float:right"}   
-  **Black-Scholes Pricing Model using Multilevel Monte-Carlo**  [*2020.9 – 2021.6*]{style="float:right"}
-  [*Undergraduate Thesis, supervised by Professor Kody Law*]{style="float:left"}
+  **Black-Scholes Pricing Model using Multilevel Monte-Carlo**  [2020.9 – 2021.6]{style="float:right"}
+  - *Undergraduate Thesis, supervised by Professor Kody Law*
   - Studied Multilevel Monte-Carlo and applied the Euler-Maruyama to solve the discretized linear stochastic differential equations on Ito Integral version
   - Implemented Monte-Carlo simulation of expectations with strong and weak rates of convergence using vectorized R code
   - Deduced the properties of an independent estimator by a sequence of Monte-Carlo samples
@@ -89,8 +89,8 @@ Elements of Algebra and Geometry
 ### EXTRACURRICULAR ACTIVITIES
 
 - **School of Mathematics, Shandong University** [Jinan, China]{style="float:right"}   
-  **Edible Tableware based on Finite Element Analysis**  [*2019.4 – 2020.4*]{style="float:right"}
-  [*Undergraduate Project, supervised by Professor Song Yu*]{style="float:left"}
+  **Edible Tableware based on Finite Element Analysis**  [2019.4 – 2020.4]{style="float:right"}
+  - *Undergraduate Project, supervised by Professor Song Yu*
   - Led a team of five students with diverse backgrounds and secured full funding (around $900)
   - Designed and produced a chopstick-like mold, testing its mechanical characteristics
   - Connected and partnered with local restaurants and pubs for testing and review
@@ -98,14 +98,14 @@ Elements of Algebra and Geometry
 &NewLine; 
 
 - **Project Manager, Enactus** [Jinan, China]{style="float:right"}
-  - Tutored students in budget planning for every program [*2018.10 – 2019.10*]{style="float:right"}
+  - Tutored students in budget planning for every program [2018.10 – 2019.10]{style="float:right"}
   - Responsible for the entire budget arrangement of the organization
   - Award: Enactus Annual Outstanding Individual (Top 10%)
 
 &NewLine;
 
 - **Cultural Advisor, Association of International Exchange** [Jinan, China]{style="float:right"}
-  - Assisted in events and activities for the international student exchange [*2017.10 – 2018.10*]{style="float:right"}
+  - Assisted in events and activities for the international student exchange [2017.10 – 2018.10]{style="float:right"}
   - Trained students to avoid and bridge the gap of culture shock
 
 &nbsp;
