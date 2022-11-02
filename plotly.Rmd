@@ -13,69 +13,105 @@ We are going to make some plotly plots.
 ```{r}
 library(tidyverse)
 library(p8105.datasets)
+library(httr)
+library(jsonlite)
 library(plotly)
+library(lubridate)
 ```
 
-Let's get some data.
+## Importing data
 
 ```{r}
-data("nyc_airbnb")
+get_all_inspections = function(url) {
+  
+  all_inspections = vector("list", length = 0)
+  
+  loop_index = 1
+  chunk_size = 50000
+  DO_NEXT = TRUE
+  
+  while (DO_NEXT) {
+    message("Getting data, page ", loop_index)
+    
+    all_inspections[[loop_index]] = 
+      GET(url,
+          query = list(`$order` = "zipcode",
+                       `$limit` = chunk_size,
+                       `$offset` = as.integer((loop_index - 1) * chunk_size)
+                       )
+          ) %>%
+      content("text") %>%
+      fromJSON() %>%
+      as_tibble()
+    
+    DO_NEXT = dim(all_inspections[[loop_index]])[1] == chunk_size
+    loop_index = loop_index + 1
+  }
+  
+  all_inspections
+  
+}
 
-nyc_airbnb =
-  nyc_airbnb %>%
-  mutate(rating = review_scores_location /2) %>%
+url = "https://data.cityofnewyork.us/resource/43nn-pn8j.json"
+
+nyc_inspections = 
+  get_all_inspections(url) %>%
+  bind_rows() 
+
+nyc_inspections_cleaned =
+  nyc_inspections %>%
+  janitor::clean_names() %>%
+  mutate(date = as.Date(inspection_date),
+         score = as.integer(score)) %>%
   select(
-    borough = neighbourhood_group, neighbourhood, price, room_type, lat, long, rating) %>%
+    date, boro, score, grade) %>%
   filter(
-    borough == "Manhattan",
-    room_type == "Entire home/apt",
-    price %in% 100:500
+    grade == c("A","B","C"), boro == c("Bronx","Brooklyn","Manhattan","Queens","Staten Island")
   ) %>%
-  drop_na(rating)
+  drop_na(score)
 ```
 
-Let's make a scatterplot!!
+## Making a line plot
 
 ```{r}
-nyc_airbnb %>%
-  mutate(
-    text_label = str_c("Price: ", price, "\nRating: ", rating)
-    ) %>%
-  plot_ly(
-    x = ~lat, y = ~long, color = ~price,
-    type = "scatter", mode = "markers",
-    alpha = .5, text = ~text_label
-  )
+nyc_inspections_cleaned %>%
+  mutate(date = format(date, "%Y-%m")) %>%
+  group_by(date, boro) %>%
+  summarize(count = n()) %>%
+  ungroup() %>%
+  plot_ly(x = ~date, y = ~count, color = ~boro, type = "scatter", 
+          mode = "lines", alpha = .5) %>%
+  layout(title =  "Number of B or C grade received restaurant cases over time in NYC boroughs",
+         xaxis = list(title = "Date (Year-Month)"),
+         yaxis = list(title = "Cases Count")
+         )
 ```
 
-boxplots
+## Then boxplots
 
 ```{r}
-nyc_airbnb %>%
-  mutate(neighbourhood = fct_reorder(neighbourhood, price)) %>%
-  plot_ly(y = ~price, color = ~neighbourhood,
-         type = "box")
+nyc_inspections_cleaned %>%
+  mutate(year = year(date)) %>%
+  plot_ly(x = ~boro, y = ~score, type = "box",
+    color = ~boro, alpha = .5) %>%
+  layout(title = "The distribution of restaurant scores in NYC boroughs per year",
+         xaxis = list(title = "Borough"),
+         yaxis = list(title = "Score"))
+
 ```
 
-bar plot
+## Finally bar plot
 
 ```{r}
-nyc_airbnb %>%
-  count(neighbourhood) %>%
-  plot_ly(
-    x = ~neighbourhood, y = ~n,
-    type = "bar")
+nyc_inspections_cleaned %>% 
+  mutate(year = year(date)) %>%
+  group_by(year, boro, grade) %>%
+  summarize(count = n()) %>%
+  ungroup() %>%
+  plot_ly(x = ~boro, y = ~count, color = ~grade, 
+          type = "bar", alpha = 0.7) %>% 
+  layout(title = 
+           "Number of restaurant cases by grade level in NYC Boroughs",
+         xaxis = list(title = "Borough"),
+         yaxis = list(title = "Count"))
 ```
-
-## ggplotly ...
-
-```{r}
-ggp_scatterplot =
-  nyc_airbnb %>%
-  ggplot(aes(x = lat, y = long, color = price)) +
-  geom_point()
-
-ggplotly(ggp_scatterplot)
-```
-
-## Create a dashboard...

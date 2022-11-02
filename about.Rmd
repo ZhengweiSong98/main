@@ -6,4 +6,4 @@ output:
     toc_float: true
 ---
 
-This website is made by rmarkdown and other stuff.
+This website is made by R markdown, YAML and other stuff.
