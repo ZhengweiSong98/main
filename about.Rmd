@@ -1,9 +1,0 @@
----
-title: "About this website"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
----
-
-This website is made by R markdown, YAML and other stuff.

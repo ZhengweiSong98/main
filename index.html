@@ -11,9 +11,9 @@
 
 
 
-<title>Zhengwei Song’s website</title>
+<title>Zhengwei Song</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -35,8 +35,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -183,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -192,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -331,16 +324,7 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="about.html">About</a>
-</li>
-<li>
-  <a href="dashboard.html">Dashboard</a>
-</li>
-<li>
-  <a href="cv.html">
-    <span class="fa fa-solid fa-file"></span>
-     
-  </a>
+  <a href="CV/CV_Jun2023.pdf">CV</a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/zhengwei-song/">
@@ -349,13 +333,7 @@ div.tocify {
   </a>
 </li>
 <li>
-  <a href="mailto:&lt;zs2539@cumc.columbia.com&gt;">
-    <span class="fa fa-envelope fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="http://github.com/charksong/">
+  <a href="https://github.com/ZhengweiSong98">
     <span class="fa fa-github fa-lg"></span>
      
   </a>
@@ -369,28 +347,50 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Zhengwei Song’s website</h1>
+<h1 class="title toc-ignore">Zhengwei Song</h1>
 
 </div>
 
 
-<div id="introduction" class="section level1">
-<h1>Introduction</h1>
-<p>Hello!</p>
-<p><img
-src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hello_To_You.gif" /></p>
+<div id="hello" class="section level1">
+<h1>Hello!</h1>
+<p> </p>
+<div style="text-align: center;">
+<p><img src="images/self.jpg" style="width:40%"></p>
+</div>
+<p> </p>
 <p>I am a master student in biostatistics, interested in biomedical
 applications of data science and statistics. My <a
-href="cv.html">Curriculum vitae</a>, contact info, social media and
-GitHub homepage are in the top right-hand corner, alternatively, you may
-see the email address and phone number below.</p>
+href="CV/CV_Jun2023.pdf">CV</a>, LinkedIn and GitHub homepage are in the
+top right-hand corner, also, you may see the email address and phone
+number at bottom.</p>
 </div>
-<div id="plotly-dashboard" class="section level1">
-<h1>Plotly &amp; Dashboard</h1>
-<p><a href="plotly.html">Here’s</a> a page with detailed plotly plots
-process, and finally, <a href="dashboard.html">here’s</a> a
-flexdashboard for visualization, alternatively, you may click on the
-“Dashboard” on the top right-hand corner.</p>
+<div id="key-experiences" class="section level1">
+<h1>Key Experiences</h1>
+<div id="industry" class="section level2">
+<h2>Industry</h2>
+<ul>
+<li>Mixed-effect modeling: <a href="https://github.com/Genentech/jmpost"
+class="uri">https://github.com/Genentech/jmpost</a></li>
+</ul>
+</div>
+<div id="coursework" class="section level2">
+<h2>Coursework</h2>
+<ul>
+<li><p>Exploratory Statistic: <a
+href="https://zhengweisong98.github.io/p8105_final_project/"
+class="uri">https://zhengweisong98.github.io/p8105_final_project/</a></p></li>
+<li><p>Monte Carlo Simulation: <a
+href="https://docs.google.com/presentation/d/1tnEzX7YDKgHmlzn1-jEgrsFXalGsTl231fpGGOWdyxk/edit?pli=1#slide=id.g20f67328452_2_63"
+class="uri">https://docs.google.com/presentation/d/1tnEzX7YDKgHmlzn1-jEgrsFXalGsTl231fpGGOWdyxk/edit?pli=1#slide=id.g20f67328452_2_63</a></p></li>
+<li><p>Newton-Raphson Algorithm: <a
+href="https://docs.google.com/presentation/d/1HuzDIvBQFxgv9nNAe52gS285o9_QZJOiyZcsY3YClxE/edit#slide=id.p"
+class="uri">https://docs.google.com/presentation/d/1HuzDIvBQFxgv9nNAe52gS285o9_QZJOiyZcsY3YClxE/edit#slide=id.p</a></p></li>
+<li><p>MCMC: <a
+href="https://docs.google.com/presentation/d/1XMO_r3H48kgQjwCu0XIvwlMTWodJu6QdhWCfswRJ6Eg/edit?pli=1#slide=id.g23b96382419_0_185"
+class="uri">https://docs.google.com/presentation/d/1XMO_r3H48kgQjwCu0XIvwlMTWodJu6QdhWCfswRJ6Eg/edit?pli=1#slide=id.g23b96382419_0_185</a></p></li>
+</ul>
+</div>
 </div>
 <div id="contact" class="section level1">
 <h1>Contact</h1>
@@ -398,12 +398,6 @@ flexdashboard for visualization, alternatively, you may click on the
 <p><i class="fas fa-envelope"></i> Email: <a
 href="mailto:zs2539@cumc.columbia.edu"
 class="email">zs2539@cumc.columbia.edu</a></p>
-</div>
-<div id="about" class="section level1">
-<h1>About</h1>
-<p>This is a direct link to the <a href="about.html">about</a> page,
-alternatively, you may click on the “About” on the top right-hand
-corner.</p>
 </div>
 
 

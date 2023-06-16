@@ -1,25 +1,40 @@
 ---
-title: "Zhengwei Song's website"
+title: "Zhengwei Song"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Introduction
-Hello! 
+# Hello!
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Hello_To_You.gif)
+&nbsp;
 
-I am a master student in biostatistics, interested in biomedical applications of data science and statistics. My [Curriculum vitae](cv.html), contact info, social media and GitHub homepage are in the top right-hand corner, alternatively, you may see the email address and phone number below.
+<div style="text-align: center;">
+<img src="images/self.jpg" style="width:40%">
+</div>
 
-# Plotly & Dashboard
-[Here's](plotly.html) a page with detailed plotly plots process, and finally, [here's](dashboard.html) a flexdashboard for visualization, alternatively, you may click on the "Dashboard" on the top right-hand corner.
+&nbsp;
+
+I am a master student in biostatistics, interested in biomedical applications of data science and statistics. My [CV](CV/CV_Jun2023.pdf), LinkedIn and GitHub homepage are in the top right-hand corner, also, you may see the email address and phone number at bottom.
+
+# Key Experiences
+
+## Industry
+
+- Mixed-effect modeling: https://github.com/Genentech/jmpost
+
+## Coursework
+
+- Exploratory Statistic: https://zhengweisong98.github.io/p8105_final_project/
+
+- Monte Carlo Simulation: https://docs.google.com/presentation/d/1tnEzX7YDKgHmlzn1-jEgrsFXalGsTl231fpGGOWdyxk/edit?pli=1#slide=id.g20f67328452_2_63
+
+- Newton-Raphson Algorithm: https://docs.google.com/presentation/d/1HuzDIvBQFxgv9nNAe52gS285o9_QZJOiyZcsY3YClxE/edit#slide=id.p
+
+- MCMC: https://docs.google.com/presentation/d/1XMO_r3H48kgQjwCu0XIvwlMTWodJu6QdhWCfswRJ6Eg/edit?pli=1#slide=id.g23b96382419_0_185
 
 # Contact
 <i class="fas fa-phone"></i> Tel: +1 (332)-256-6895
 
 <i class="fas fa-envelope"></i> Email: <zs2539@cumc.columbia.edu>
-
-# About
-This is a direct link to the [about](about.html) page, alternatively, you may click on the "About" on the top right-hand corner.
