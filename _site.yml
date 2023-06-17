@@ -1,7 +1,8 @@
-name: "Contact"
+name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
+  type: inverse
   right:
     - text: "CV"
       href: CV/CV_Jun2023.pdf
@@ -11,4 +12,5 @@ navbar:
       href: https://github.com/ZhengweiSong98
 output:
   html_document:
-    theme: lumen
+    theme: 
+      bootswatch: minty
