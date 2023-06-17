@@ -7,17 +7,17 @@ output:
       in_header: icon.html
 ---
 
+&nbsp;
+
+<img src="images/self.jpg" style="width:50%; margin: 0px 20px 0px 0px" align="left">
+
+&nbsp;
+
 # Hello!
 
-&nbsp;
-
-<div style="text-align: center;">
-<img src="images/self.jpg" style="width:40%">
-</div>
-
-&nbsp;
-
 I am a master student in biostatistics, interested in biomedical applications of data science and statistics. My [CV](CV/CV_Jun2023.pdf), LinkedIn and GitHub homepage are in the top right-hand corner, also, you may see the email address and phone number at bottom.
+
+<p style="margin-bottom: 450px;"></p>
 
 # Key Projects
 
