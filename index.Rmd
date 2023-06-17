@@ -26,7 +26,7 @@ I am a master student in biostatistics, interested in biomedical applications of
 &nbsp;
 
 <div style="text-align: center;">
-<img src="images/roche.jpg" style="width:40%">
+![Biostatistics Intern at Roche Diagnostics, 2022](images/roche.jpg){width=50%}
 </div>
 
 &nbsp;
