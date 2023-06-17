@@ -18,7 +18,7 @@ output:
 
 I am a master student in biostatistics, interested in biomedical applications of data science and statistics. My [CV](CV/CV_Jun2023.pdf), LinkedIn and GitHub homepage are in the top right-hand corner, also, you may see the email address and phone number at bottom.
 
-<p style="margin-bottom: 450px;"></p>
+<p style="margin-bottom: 330px;"></p>
 
 # Key Projects
 
