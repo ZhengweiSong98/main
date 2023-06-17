@@ -31,17 +31,19 @@ I am a master student in biostatistics, interested in biomedical applications of
 
 &nbsp;
 
-- Mixed-effect modeling: https://github.com/Genentech/jmpost
+- Mixed-effect modeling: [GitHub](https://github.com/Genentech/jmpost)
 
 ## Coursework
 
-- Exploratory Statistic: https://zhengweisong98.github.io/p8105_final_project/
+- Exploratory Statistic: [Website](https://zhengweisong98.github.io/p8105_final_project/)
 
-- Monte Carlo Simulation: https://docs.google.com/presentation/d/1tnEzX7YDKgHmlzn1-jEgrsFXalGsTl231fpGGOWdyxk/edit?pli=1#slide=id.g20f67328452_2_63
+- Linear Modeling: [Report](projects/linear reg.pdf)
 
-- Newton-Raphson Algorithm: https://docs.google.com/presentation/d/1HuzDIvBQFxgv9nNAe52gS285o9_QZJOiyZcsY3YClxE/edit#slide=id.p
+- Monte Carlo Simulation: [Report](projects/MC simulation report.pdf), [Slide](projects/MC simulation.pdf)
 
-- MCMC: https://docs.google.com/presentation/d/1XMO_r3H48kgQjwCu0XIvwlMTWodJu6QdhWCfswRJ6Eg/edit?pli=1#slide=id.g23b96382419_0_185
+- Newton-Raphson Algorithm: [Report](projects/Newton report.pdf), [Slide](projects/Newton.pdf)
+
+- MCMC: [Report](projects/MCMC report.pdf), [Slide](projects/MCMC.pdf)
 
 # Contact
 <i class="fas fa-phone"></i> Tel: +1 (332)-256-6895
