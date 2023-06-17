@@ -2,7 +2,8 @@
 title: "Zhengwei Song"
 output: 
   html_document:
-    toc: false
+    toc: true
+    toc_float: true
     includes: 
       in_header: icon.html
 ---
