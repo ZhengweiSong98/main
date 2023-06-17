@@ -46,6 +46,8 @@ I am a master student in biostatistics, interested in biomedical applications of
 
 - MCMC: [Report](projects/MCMC report.pdf), [Slide](projects/MCMC.pdf)
 
+- MLMC: [Slide](projects/mlmc.pdf)
+
 # Contact
 <i class="fas fa-phone"></i> Tel: +1 (332)-256-6895
 
