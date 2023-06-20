@@ -24,6 +24,10 @@ I am a master student in biostatistics, interested in biomedical applications of
 
 ### Industry
 
+&bull; Mixed-effect Modeling (Describing individual time profiles (i.e. trajectories) for a continuous marker): [GitHub](https://github.com/Genentech/jmpost)
+
+&bull; mySQL Programming (Weibo Entertainment White Paper 2021): [White Paper](https://weibo.cn/sinaurl?u=https%3A%2F%2Fv2.rabbitpre.com%2Fm2%2FFw90XhQYdRi) (in Simplified Chinese)
+
 &nbsp;
 
 <div style="text-align: center;">
@@ -31,10 +35,6 @@ I am a master student in biostatistics, interested in biomedical applications of
 </div>
 
 &nbsp;
-
-&bull; Mixed-effect Modeling (Describing individual time profiles (i.e. trajectories) for a continuous marker): [GitHub](https://github.com/Genentech/jmpost)
-
-&bull; mySQL Programming (Weibo Entertainment White Paper 2021): [White Paper](https://weibo.cn/sinaurl?u=https%3A%2F%2Fv2.rabbitpre.com%2Fm2%2FFw90XhQYdRi) (in Simplified Chinese)
 
 ### Coursework
 
@@ -52,7 +52,16 @@ I am a master student in biostatistics, interested in biomedical applications of
 
 &bull; MLMC (Black-Scholes Pricing Model Data Simulation): [Slide](projects/mlmc.pdf)
 
+# Extracurricular Activities
+
+&bull; Edible Tableware Undergraduate Project: [Report](projects/edible tableware result.pdf)
+
+<div style="text-align: center;">
+![Treasurer at Enactus, 2018](images/enactus.jpg){width=50%}
+</div>
+
 # Contact
+
 <i class="fas fa-phone"></i> Tel: +1 (332)-256-6895
 
 <i class="fas fa-envelope"></i> Email: <zs2539@cumc.columbia.edu>
