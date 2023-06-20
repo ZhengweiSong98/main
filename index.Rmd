@@ -56,9 +56,13 @@ I am a master student in biostatistics, interested in biomedical applications of
 
 &bull; Edible Tableware Undergraduate Project: [Report](projects/edible tableware result.pdf)
 
+&nbsp;
+
 <div style="text-align: center;">
 ![Treasurer at Enactus, 2018](images/enactus.jpg){width=50%}
 </div>
+
+&nbsp;
 
 # Contact
 
