@@ -24,9 +24,9 @@ Firstly, I am so glad you are here to learn more about me! I am a master student
 
 ### Industry
 
-&bull; **Mixed-effect Modeling** (Describing individual time profiles (i.e. trajectories) for a continuous marker): [GitHub](https://github.com/Genentech/jmpost)
+&bull; **Mixed-effect Modeling:** Describing individual time profiles (i.e. trajectories) for a continuous marker ([GitHub](https://github.com/Genentech/jmpost))
 
-&bull; **mySQL Programming** (Weibo Entertainment White Paper 2021): [White Paper](https://weibo.cn/sinaurl?u=https%3A%2F%2Fv2.rabbitpre.com%2Fm2%2FFw90XhQYdRi) (in Simplified Chinese)
+&bull; **mySQL Programming:** [Weibo Entertainment White Paper 2021](https://weibo.cn/sinaurl?u=https%3A%2F%2Fv2.rabbitpre.com%2Fm2%2FFw90XhQYdRi) (in Simplified Chinese)
 
 &nbsp;
 
@@ -40,19 +40,19 @@ Firstly, I am so glad you are here to learn more about me! I am a master student
 
 ### Coursework
 
-&bull; **Exploratory Statistic and Weighted Least Squares Modeling** (Relationship between county population size and COVID-19 prevalence, and the COVID-19 prevalence among different age groups): [Website](https://zhengweisong98.github.io/p8105_final_project/)
+&bull; **Exploratory Statistic and Weighted Least Squares Modeling:** Relationship between county population size and COVID-19 prevalence, and the COVID-19 prevalence among different age groups ([Website](https://zhengweisong98.github.io/p8105_final_project/))
 
-&bull; **Linear Modeling** (Body fat based on physiological indicators): [Report](projects/linear reg.pdf)
+&bull; **Linear Modeling:** Body fat based on physiological indicators ([Report](projects/linear reg.pdf))
 
-&bull; **Statistical Learning** (Prediction models for Covid-19 recovery time and risk factors for long recovery time): [Report](projects/statistical learning.pdf)
+&bull; **Statistical Learning:** Prediction models for Covid-19 recovery time and risk factors for long recovery time ([Report](projects/statistical learning.pdf))
 
-&bull; **Monte Carlo Simulation** (Designing a simulation study to assess the three hypothesis testings of log-rank test ): [Report](projects/MC simulation report.pdf), [Slide](projects/MC simulation.pdf)
+&bull; **Monte Carlo Simulation:** Designing a simulation study to assess the three hypothesis testings of log-rank test ([Report](projects/MC simulation report.pdf), [Slide](projects/MC simulation.pdf))
 
-&bull; **Newton-Raphson Algorithm** (Analyses of daily COVID-19 cases, hospitalization, death in NYC): [Report](projects/Newton report.pdf), [Slide](projects/Newton.pdf)
+&bull; **Newton-Raphson Algorithm:** Analyses of daily COVID-19 cases, hospitalization, death in NYC ([Report](projects/Newton report.pdf), [Slide](projects/Newton.pdf))
 
-&bull; **MCMC** (Bayesian Hierarchical Modeling of COVID-19 Cases and Government Response in the US): [Report](projects/MCMC report.pdf), [Slide](projects/MCMC.pdf)
+&bull; **MCMC:** Bayesian Hierarchical Modeling of COVID-19 Cases and Government Response in the US ([Report](projects/MCMC report.pdf), [Slide](projects/MCMC.pdf))
 
-&bull; **MLMC** (Black-Scholes Pricing Model Data Simulation): [Slide](projects/mlmc.pdf)
+&bull; **MLMC:** Black-Scholes Pricing Model Data Simulation ([Slide](projects/mlmc.pdf))
 
 # Awards
 
@@ -64,7 +64,7 @@ Firstly, I am so glad you are here to learn more about me! I am a master student
 
 # Extracurricular Activities
 
-&bull; Shandong University School of Mathematics - Enactus Joint Undergraduate Program on **Edible Tableware Innovation**: [Report](projects/edible tableware result.pdf)
+&bull; Shandong University School of Mathematics - Enactus Joint Undergraduate Program on **Edible Tableware Innovation** ([Report](projects/edible tableware result.pdf))
 
 &nbsp;
 
