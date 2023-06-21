@@ -16,7 +16,7 @@ output:
 
 # Hello!
 
-Firstly, I am so glad you are here to learn more about me! I am a master student in biostatistics, interested in biomedical applications of data science and statistics. My [CV](CV/CV_Jun2023.pdf), LinkedIn and GitHub homepage are in the top right-hand corner. My [key projects](https://zhengweisong98.github.io/main/#Key_Projects) at industries and academics. Also, you may see the email address and phone number at [Contact](https://zhengweisong98.github.io/main/#Contact).
+Firstly, I am so glad you are here to learn more about me! I am a master student in biostatistics at Columbia University, New York. I am interested in biomedical applications of data science and statistics. My [CV](CV/CV_Jun2023.pdf), LinkedIn and GitHub homepage are in the top right-hand corner. There are also my [key projects](https://zhengweisong98.github.io/main/#Key_Projects) at industries and academics. Also, I have been fortunate to win some [awards](https://zhengweisong98.github.io/main/#Awards). Furthermore, you may find my email, phone number and mailing address at [Contact](https://zhengweisong98.github.io/main/#Contact).
 
 <p style="margin-bottom: 350px;"></p>
 
