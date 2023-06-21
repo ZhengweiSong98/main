@@ -54,6 +54,14 @@ Firstly, I am so glad you are here to learn more about me! I am a master student
 
 &bull; **MLMC** (Black-Scholes Pricing Model Data Simulation): [Slide](projects/mlmc.pdf)
 
+# Awards
+
+&bull; [Shandong University Third-class Academic Scholarship, 2017-2018](awards/scholarsdu.pdf)
+
+&bull; [AAAI 2022 Security AI Challenger VIII Award (44 out of 3692)](https://tianchi.aliyun.com/competition/entrance/531939/rankingList)
+
+&bull; [Enactus Best Individual of Student Project in Shandong University, 2018](https://mp.weixin.qq.com/s/skvVfPcQPGasitE5BxjWyg) (in Simplified Chinese)
+
 # Extracurricular Activities
 
 &bull; Shandong University School of Mathematics - Enactus Joint Undergraduate Program on **Edible Tableware Innovation**: [Report](projects/edible tableware result.pdf)
