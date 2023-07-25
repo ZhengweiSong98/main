@@ -44,6 +44,19 @@ Firstly, I am so glad you are here to learn more about me! I am a master's stude
 
 &bull; Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets ([Slide](projects/molecular subtyping.pdf))
 
+### Teaching
+
+&bull; [Biostatistics Epidemiology Summer Training (BEST), Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training/about)
+
+&nbsp;
+
+<div style="text-align: center;">
+  <img src="images/llab_best.jpg" style="width: 40%;" />
+  <p style="text-align: center; font-weight: light;">Presentation of Summer Project, 2023</p>
+</div>
+
+&nbsp;
+
 ### Coursework
 
 &bull; **Exploratory Statistic and Weighted Least Squares Modeling:** Relationship between county population size and COVID-19 prevalence, and the COVID-19 prevalence among different age groups ([Website](https://zhengweisong98.github.io/p8105_final_project/))
