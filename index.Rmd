@@ -52,7 +52,8 @@ Firstly, I am so glad you are here to learn more about me! I am a master's stude
 
 <div style="text-align: center;">
   <img src="images/llab_best.jpg" style="width: 40%;" />
-  <p style="text-align: center; font-weight: light;">Presentation of Summer Project, 2023</p>
+  <img src="images/llab_best2.jpg" style="width: 40%;" />
+  <p style="text-align: center; font-weight: light;">BEST, 2023</p>
 </div>
 
 &nbsp;
