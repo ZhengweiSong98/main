@@ -16,7 +16,9 @@ output:
 
 # Hello!
 
-Firstly, I am so glad you are here to learn more about me! I am a master's student in biostatistics at Columbia University, New York. I am interested in biomedical applications of data science and statistics. My [CV](CV/CV_Jul2023.pdf), LinkedIn and GitHub homepage are in the top right-hand corner. There are also my Key Projects at industries and academics. Also, I have been fortunate to win some Awards. Furthermore, you may find my email, phone number and mailing address at Contact.
+Firstly, I'm so glad you come here! 
+
+Something about me: I'm a master's student in biostatistics at Columbia University, New York, expect to graduate on May 2024. I am interested in biomedical applications of data science and statistics. There are also my Key Projects at industries and academics. Also, I have been fortunate to win some Awards.
 
 <p style="margin-bottom: 350px;"></p>
 
@@ -44,14 +46,19 @@ Firstly, I am so glad you are here to learn more about me! I am a master's stude
 
 &bull; Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets ([Slide](projects/molecular subtyping.pdf))
 
+### Publications
+
+&bull; "Genome-wide gene-based study in multi-ethnic cohorts identifies genes that interact with vascular risk factors in Alzheimer’s disease (AD)" (with Annie Lee), under review for *Alzheimer’s disease and Parkinson’s disease Conference*, 2024.
+
 ### Teaching
+
+&bull; Teaching Assistant for Mathematical Statistics and Biostatistical Method I, Columbia University
 
 &bull; [Biostatistics Epidemiology Summer Training (BEST), Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training/about)
 
 &nbsp;
 
 <div style="text-align: center;">
-  <img src="images/llab_best.jpg" style="width: 40%;" />
   <img src="images/llab_best2.jpg" style="width: 40%;" />
   <p style="text-align: center; font-weight: light;">BEST, 2023</p>
 </div>
@@ -84,7 +91,7 @@ Firstly, I am so glad you are here to learn more about me! I am a master's stude
 
 # Extracurricular Activities
 
-&bull; Shandong University School of Mathematics - Enactus Joint Undergraduate Program on **Edible Tableware Innovation** ([Report](projects/edible tableware result.pdf))
+&bull; Shandong University School of Mathematics - Enactus Joint Undergraduate Program on Edible Tableware Innovation ([Report](projects/edible tableware result.pdf))
 
 &nbsp;
 
@@ -96,7 +103,7 @@ Firstly, I am so glad you are here to learn more about me! I am a master's stude
 
 # Contact
 
-<i class="fas fa-phone"></i> Tel: +1 (332)-256-6895
+<i class="fas fa-phone"></i> Mobile: +1 (332) 256-6895 &nbsp;&nbsp; <i class="fa-solid fa-briefcase"></i> Office: +1 (212) 342-1217
 
 <i class="fas fa-envelope"></i> Email: <zs2539@cumc.columbia.edu>
 
