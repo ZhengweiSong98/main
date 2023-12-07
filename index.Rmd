@@ -83,11 +83,11 @@ Annie J. Lee, Zuoqiao Cui, **Zhengwei Song**, Dolly Reyes-Dumeyer, Philip L. De 
 
 &bull; **Statistical Learning:** Prediction models for Covid-19 recovery time and risk factors for long recovery time ([Report](projects/statistical learning.pdf))
 
-&bull; **Monte Carlo Simulation:** Designing a simulation study to assess the three hypothesis testings of log-rank test ([Report](projects/MC simulation report_self.pdf), [Slide](projects/MC simulation_self.pdf))
+&bull; **Monte Carlo Simulation:** Designing a simulation study to assess the three hypothesis testings of log-rank test ([Report](projects/MC simulation report.pdf), [Slide](projects/MC simulation.pdf))
 
 &bull; **Newton-Raphson Algorithm:** Analyses of daily COVID-19 cases, hospitalization, death in NYC ([Report](projects/Newton report_self.pdf), [Slide](projects/Newton_self.pdf))
 
-&bull; **MCMC:** Bayesian Hierarchical Modeling of COVID-19 Cases and Government Response in the US ([Report](projects/MCMC report.pdf), [Slide](projects/MCMC.pdf))
+&bull; **MCMC:** Bayesian Hierarchical Modeling of COVID-19 Cases and Government Response in the US ([Report](projects/MCMC report.pdf), [Slide](projects/MCMC_self.pdf))
 
 &bull; **MLMC:** Black-Scholes Pricing Model Data Simulation ([Slide](projects/mlmc.pdf))
 
