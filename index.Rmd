@@ -60,9 +60,9 @@ Annie J. Lee, Zuoqiao Cui, **Zhengwei Song**, Dolly Reyes-Dumeyer, Philip L. De 
 
 1. Teaching Assistant in Columbia University for 
 
-&bull; Mathematical Statistics (Prof. Todd Ogden)
+&emsp; &bull; Mathematical Statistics (Prof. Todd Ogden)
 
-&bull; Biostatistical Method I (Prof. Molei Liu)
+&emsp; &bull; Biostatistical Method I (Prof. Molei Liu)
 
 2. [Biostatistics Epidemiology Summer Training (BEST)](https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training/about), Columbia University Mailman School of Public Health
 
