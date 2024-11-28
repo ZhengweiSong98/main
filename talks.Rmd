@@ -1,0 +1,18 @@
+---
+title: ""
+output:
+  html_document: 
+    toc: false
+editor_options: 
+  chunk_output_type: console
+---
+
+&nbsp;
+
+1.	Lee AJ, Cui Z, **Song Z**, Reyes-Dumeyer D, De Jager PL, Bennett DA, Schneider JA, Menon V, Wang Y, Lantigua RA, Medrano M, Rivera Mejia D, Jiménez-Velázquez IZ, Kukull WA, Biber SA, Brickman AM, Tosto G, Kizil C, Farrer LA, Mez J, Chung J, Vardarajan BN, Mayeux R. “[Multi-ancestry Genome-wide Gene-Vascular Risk Factors Interaction Analyses in Alzheimer’s Disease.](https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/93041)” Alzheimer's Association International Conference (AAIC), Philadelphia, PA, contributed. (08/2024)
+
+2.	**Song Z**, Gu T. “[Enhancing Breast Cancer Risk Prediction in Hispanic Women Through Transfer Learning.](https://www.publichealth.columbia.edu/academics/departments/biostatistics/news-events/2024-biostatistics-practicum-apex-symposium)” Biostatistics Practicum/APEX Symposium, Department of Biostatistics, Columbia University, NY (04/2024)
+
+3.	**Song Z**, Cui Z, Lee AJ. “[Broadening Gene Discovery for Alzheimer’s Disease.](https://datascience.columbia.edu/outreach/events/exhibitor-map-data-science-day-2024/)” Poster P64, Columbia University Data Science Day, New York, NY (04/2024)
+
+4.	Lee AJ, Cui Z, **Song Z**, Reyes-Dumeyer D, De Jager PL, Bennett DA, Schneider JA, Menon V, Wang Y, Lantigua RA, Medrano M, Rivera D, Jiménez-Velázquez IZ, Kukull WA, Brickman AM, Manly JJ, Tosto G, Kizil C, Farrer LA, Mez J, Chung J, Vardarajan BN, Mayeux R. “[Genome-wide Gene-based study in Multi-ethnic Cohorts identifies Genes that Interact with Vascular Risk Factors in Alzheimer’s Disease.](https://adpd2024.kenes.com/junior-faculty-awards/)” Alzheimer's & Parkinson's Diseases and related neurological disorders (AD/PD), Lisbon, Portugal, contributed. (03/2024)

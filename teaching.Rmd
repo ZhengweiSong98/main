@@ -1,0 +1,27 @@
+---
+title: ""
+output:
+  html_document: 
+    toc: false
+editor_options: 
+  chunk_output_type: console
+---
+
+&nbsp;
+
+1. Teaching Assistant in Columbia University for 
+
+&emsp; &bull; Mathematical Statistics (Prof. Todd Ogden)
+
+&emsp; &bull; Biostatistical Method I (Prof. Molei Liu)
+
+2. [Biostatistics Epidemiology Summer Training (BEST)](https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training/about), Columbia University Mailman School of Public Health
+
+&nbsp;
+
+<div style="text-align: center;">
+  <img src="images/llab_best2.jpg" style="width: 40%;" />
+  <p style="text-align: center; font-weight: light;">BEST, 2023</p>
+</div>
+
+&nbsp;

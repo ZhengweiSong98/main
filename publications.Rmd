@@ -1,0 +1,14 @@
+---
+title: ""
+output:
+  html_document: 
+    toc: false
+editor_options: 
+  chunk_output_type: console
+---
+
+&nbsp;
+
+1. (+ contributed equally) Annie J. Lee, Zuoqiao Cui+, **Zhengwei Song+**, Dolly Reyes-Dumeyer, Philip L. De Jager, David A. Bennett, Julie A. Schneider, Vilas Menon, Yanling Wang, Rafael A. Lantigua, Martin Medrano, Diones Rivera, Ivonne Z. Jiménez-Velázquez, Walter A. Kukull, Adam M. Brickman, Jennifer J Manly, Giuseppe Tosto, Caghan Kizil, Lindsay A. Farrer, Jesse Mez, Jaeyoon Chung, Badri N. Vardarajan, Richard Mayeux. Genome-wide gene-based study in multi-ethnic cohorts identifies genes that interact with vascular risk factors in Alzheimer’s Disease. In preparation for *JAMA Neurology*
+
+2. **Zhengwei Song**, Annie J. Lee. Integrated Transcriptomics and Epigenomics Analysis Identifies Molecular Subtypes of Alzheimer's Disease. In preparation for *Neurology*
