@@ -8,23 +8,21 @@ output:
 ---
 &nbsp;
 
-<img src="images/self2.jpg" style="width:20%; margin: 0px 0px 0px 3ch" align="right">
+<img src="images/self2.jpg" style="width:20%; margin: 0px 0px 1ch 2ch" align="right">
 
 ### About
 
-I am a Senior Computational Statistician at Eli Lilly, responsible for data processing and analysis of early-phase clinical trials in immunology and internal medicine. I earned my Master’s degree in Biostatistics from Columbia University, where I worked under the guidance of [Dr. Ying Wei](https://www.publichealth.columbia.edu/profile/ying-wei-phd), [Dr. Tianying Wang](https://tianyingw.github.io/), [Dr. Bin Cheng](https://www.columbia.edu/~bc2159/index.html), [Dr. Min Qian](https://www.columbia.edu/%7Emq2158/index.html), and [Dr. Annie Lee](https://blogs.cuit.columbia.edu/ajl2199/). Previously, I received a Bachelor’s degree in Mathematics from Shandong University in China and graduated with First-Class Honors in Mathematics from the University of Manchester in the UK.
+I am a Senior Computational Statistician at Eli Lilly and Company, responsible for data processing and analysis of early-phase clinical trials in immunology and internal medicine. I earned MS in Biostatistics from Columbia University. Previously, I received a BS in Mathematics from Shandong University in China and a first-class honours in Mathematics from the University of Manchester in the UK.
 
-
+At Columbia, I worked under the guidance of [Dr. Ying Wei](https://www.publichealth.columbia.edu/profile/ying-wei-phd) and [Dr. Tianying Wang](https://tianyingw.github.io/) on Data-driven dynamic modeling for Alzheimer’s disease progression; [Dr. Bin Cheng](https://www.columbia.edu/~bc2159/index.html) and [Dr. Min Qian](https://www.columbia.edu/%7Emq2158/index.html) on Adaptive Treatment Design and Multi-Armed Bandit Optimization; [Dr. Tian Gu](https://www.publichealth.columbia.edu/profile/tian-gu-phd) on Enhancing Breast Cancer Risk Prediction in Hispanic Women Through Transfer Learning; and [Dr. Annie Lee](https://blogs.cuit.columbia.edu/ajl2199/) on Broadening gene discovery for AD by incorporating additional cardiovascular and cerebrovascular risk factors and examining the multi-omics profiles of genes to unravel their mechanisms and causal pathways. During undergraduate, I also worked under [Dr. Song Yu](http://en.tjsl.sdu.edu.cn/info/1049/1089.htm) on Edible Tableware based on Finite Element Analysis and [Dr. Jianliang Chen](https://faculty.sdu.edu.cn/chenjianliang/en/index.htm) on Black-Scholes Pricing Model Data Simulation by Multilevel Monte-Carlo Method.
 
 ### Research Interests
 
-&bull; High-dimensional Data; Heterogeneity in Common Conditions; Multi-omics Integration; 
+&bull; High-dimensional Data; Multi-omics Integration; Spatial Transcriptomics; Precision Medicine; Heterogeneity in Common Conditions (e.g. Alzheimer’s disease, breast cancer, etc.)
 
-&bull; Adaptive Design; 
+&bull; Clinical Trials; Adaptive Design; Response-Adaptive Randomization
 
-&bull; Bayesian Methods; 
-
-&bull; Transfer Learning
+&bull; Bayesian Methods; Transfer Learning; Dynamic Processes
 
 ### Awards
 
