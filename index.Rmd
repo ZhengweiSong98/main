@@ -18,6 +18,10 @@ At Columbia, I worked under the guidance of [Dr. Ying Wei](https://www.publichea
 
 ### Research Interests
 
+My research interests center on developing statistical methodologies to address challenges in precision medicine, genomics, and clinical trials. I am particularly focused on integrating multi-omics data to uncover molecular mechanisms underlying complex diseases like Alzheimer’s and breast cancer, using techniques such as similarity network fusion, causal mediation analysis, and transfer learning. In clinical trials, I am interested in response-adaptive randomization (RAR) and Bayesian methods to optimize treatment allocation, improve statistical power, and reduce sample sizes. Additionally, I aim to advance Bayesian methodologies for modeling high-dimensional genetic data and dynamic processes, enabling robust inferences and actionable insights in biomedical research.
+
+##### Keywords
+
 &bull; High-dimensional Data; Multi-omics Integration; Spatial Transcriptomics; Precision Medicine; Heterogeneity in Common Conditions (e.g. Alzheimer’s disease, breast cancer, etc.)
 
 &bull; Clinical Trials; Adaptive Design; Response-Adaptive Randomization
