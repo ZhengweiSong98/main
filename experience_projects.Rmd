@@ -41,11 +41,11 @@ editor_options:
 
 &bull; **MCMC:** Bayesian Hierarchical Modeling of COVID-19 Cases and Government Response in the US ([Report](projects/MCMC report.pdf), [Slide](projects/MCMC_self.pdf))
 
-&bull; **MLMC:** Black-Scholes Pricing Model Data Simulation ([Slide](projects/mlmc.pdf))
+&bull; **MLMC:** Black-Scholes Pricing Model Data Simulation by Multilevel Monte-Carlo Method ([Slide](projects/mlmc.pdf))
 
 # Extracurricular Activities
 
-&bull; Shandong University School of Mathematics - Enactus Joint Undergraduate Program on Edible Tableware Innovation ([Report](projects/edible tableware result.pdf))
+&bull; Edible Tableware based on Finite Element Analysis. Shandong University School of Mathematics - Enactus Joint Undergraduate Program on Edible Tableware Innovation ([Report](projects/edible tableware result.pdf))
 
 &nbsp;
 
