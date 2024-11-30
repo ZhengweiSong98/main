@@ -11,7 +11,7 @@
 
 
 
-<title>teaching.knit</title>
+<title>software.knit</title>
 
 <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -285,88 +285,36 @@ $(document).ready(function () {
 
 
 <p> </p>
-<div id="teaching" class="section level3">
-<h3>TEACHING</h3>
-<div
-id="spring-2024-teaching-assistant-data-science-ii-p8106-department-of-biostatistics-columbia-university.-instructor-dr.-yifei-sun"
-class="section level5">
-<h5>Spring 2024: Teaching Assistant, “Data Science II” (P8106),
-Department of Biostatistics, Columbia University. Instructor: <a
-href="https://www.publichealth.columbia.edu/profile/yifei-sun-phd">Dr. Yifei
-Sun</a></h5>
-<p><em>With the explosion of “Big Data” problems, statistical learning
-has become a very hot field in many scientific areas. The goal of this
-course is to provide the training in practical statistical learning. It
-is targeted to MS students with some data analysis experience.</em></p>
-</div>
-<div
-id="fall-2023-teaching-assistant-biostatistical-methods-i-p8130-department-of-biostatistics-columbia-university.-instructor-dr.-molei-liu"
-class="section level5">
-<h5>Fall 2023: Teaching Assistant, “Biostatistical Methods I” (P8130),
-Department of Biostatistics, Columbia University. Instructor: <a
-href="https://moleibobliu.github.io/">Dr. Molei Liu</a></h5>
-<p><em>This one-semester course introduces basic applied descriptive and
-inferential statistics. The first part of the course includes elementary
-probability theory, an introduction to statistical distributions,
-principles of estimation and hypothesis testing, methods for comparison
-of discrete and continuous data including chi-squared test of
-independence, t-test, analysis of variance (ANOVA), and their
-non-parametric equivalents. The second part of the course focuses on
-linear models (regression) theory and their practical
-implementation.</em></p>
-</div>
-<div
-id="fall-2023-teaching-assistant-introduction-to-mathematical-statistics-p8107-department-of-biostatistics-columbia-university.-instructor-dr.-r.-todd-ogden"
-class="section level5">
-<h5>Fall 2023: Teaching Assistant, “Introduction to Mathematical
-Statistics” (P8107), Department of Biostatistics, Columbia University.
-Instructor: <a
-href="https://www.publichealth.columbia.edu/profile/r-todd-ogden-phd">Dr. R.
-Todd Ogden</a></h5>
-<p><em>The first portion of this course provides an introductory-level
-mathematical treatment of the fundamental principles of probability
-theory, providing the foundations for statistical inference. Students
-will learn how to apply these principles to solve a range of
-applications. The second portion of this course provides a mathematical
-treatment of (a) point estimation, including evaluation of estimators
-and methods of estimation; (b) interval estimation; and (c) hypothesis
-testing, including power calculations and likelihood ratio
-testing.</em></p>
-</div>
-</div>
-<div id="mentorship" class="section level3">
-<h3>MENTORSHIP</h3>
-<div id="summer-2023" class="section level5">
-<h5>Summer 2023:</h5>
-</div>
-<div
-id="mentoring-danielle-savellano-sophomore-in-biology-allegheny-college"
-class="section level5">
-<h5>  Mentoring, Danielle Savellano, Sophomore in Biology, Allegheny
-College</h5>
-</div>
-<div
-id="mentoring-kayla-scott-mcdowell-junior-in-biochemistry-sociology-mt.-holyoke-college"
-class="section level5">
-<h5>  Mentoring, Kayla Scott-McDowell, Junior in Biochemistry &amp;
-Sociology, Mt. Holyoke College</h5>
-<p>  <em>Mentoring two undergraduate students on “<a
-href="teaching/BEST_poster.pdf">Genetic Association Between Alzheimer’s
-Disease and Cardiovascular Risk Factors</a>” from <a
-href="https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training/about">Biostatistics
-Epidemiology Summer Training (BEST) Diversity Program</a> belonging to
-Summer Health Professions Education Program (SHPEP), Columbia
-University.</em> Advisor: <a
-href="https://blogs.cuit.columbia.edu/ajl2199/">Dr. Annie Lee</a></p>
-<p> </p>
-<div style="text-align: center;">
-<img src="images/llab_best2.jpg" style="width: 40%;" />
-<p style="text-align: center; font-weight: light;">
-BEST, 2023
-</p>
-</div>
-<p> </p>
-</div>
+<div id="jmpost" class="section level3">
+<h3><a
+href="https://github.com/Genentech/jmpost?tab=readme-ov-file">jmpost</a></h3>
+<p>The goal of the R package is to fit joint models involving:</p>
+<p>  1. a parametric time-to-event sub-model,</p>
+<p>  2. a nonlinear (or linear) mixed-effect sub-model, describing
+individual time profiles (i.e. trajectories) for a continuous
+marker,</p>
+<p>  3. a link function (a.k.a. association term). More specifically,
+the model implemented in this package utilizes a modelling framework
+described previously [1-3] to link overall survival to tumour size data
+in oncology clinical trials.</p>
+<p>[1] <a
+href="https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.1450">Tardivon
+et al. Association between tumour size kinetics and survival in patients
+with urothelial carcinoma treated with atezolizumab: Implications for
+patient follow-up. Clin Pharm Ther, 2019.</a></p>
+<p>[2] <a
+href="https://onlinelibrary.wiley.com/doi/10.1002/sim.8756">Kerioui et
+al. Bayesian inference using Hamiltonian Monte-Carlo algorithm for
+nonlinear joint modelling in the context of cancer immunotherapy. Stat
+in Med, 2020.</a></p>
+<p>[3] <a
+href="https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.15200">Kerioui
+et al. Modelling the association between biomarkers and clinical
+outcome: An introduction to nonlinear joint models. Br J Clin Pharm,
+2022.</a></p>
+<p>The models are implemented in <a
+href="https://mc-stan.org/">Stan</a>, and the package provides a
+flexible user interface.</p>
 </div>
 
 
