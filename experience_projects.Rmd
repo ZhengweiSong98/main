@@ -10,22 +10,13 @@ editor_options:
 
 &nbsp;
 
-### Industry
-
-&bull; **Mixed-effect Modeling:** Describing individual time profiles (i.e. trajectories) for a continuous marker ([GitHub](https://github.com/Genentech/jmpost))
-
-&bull; **mySQL Programming:** [Weibo Entertainment White Paper 2021](https://weibo.cn/sinaurl?u=https%3A%2F%2Fv2.rabbitpre.com%2Fm2%2FFw90XhQYdRi) (in Simplified Chinese)
-
-&nbsp;
+### Industries
 
 <div style="text-align: center;">
-  <img src="images/roche.jpg" style="width: 40%;" />
-  <img src="images/roche_all.jpg" style="width: 40%;" />
-  <p style="text-align: center; font-weight: light;">Biostatistics Intern at Roche Diagnostics, 2022</p>
+![](images/lcc.jpg){width=100%}
 </div>
 
-&nbsp;
-
+&bull; [2021 Weibo Entertainment White Paper](https://weibo.cn/sinaurl?u=https%3A%2F%2Fv2.rabbitpre.com%2Fm2%2FFw90XhQYdRi)
 
 ### Coursework
 
@@ -43,14 +34,14 @@ editor_options:
 
 &bull; **MLMC:** Black-Scholes Pricing Model Data Simulation by Multilevel Monte-Carlo Method ([Slide](projects/mlmc.pdf))
 
-# Extracurricular Activities
+### Extracurricular Activities
 
 &bull; Edible Tableware based on Finite Element Analysis. Shandong University School of Mathematics - Enactus Joint Undergraduate Program on Edible Tableware Innovation ([Report](projects/edible tableware result.pdf))
 
 &nbsp;
 
 <div style="text-align: center;">
-![Treasurer at Enactus, 2018](images/enactus.jpg){width=50%}
+![Treasurer at Enactus, 2018](images/enactus.jpg){width=55%}
 </div>
 
 &nbsp;

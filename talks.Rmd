@@ -22,3 +22,7 @@ editor_options:
 4.	Lee AJ, Cui Z, **Song Z**, Reyes-Dumeyer D, De Jager PL, Bennett DA, Schneider JA, Menon V, Wang Y, Lantigua RA, Medrano M, Rivera D, Jiménez-Velázquez IZ, Kukull WA, Brickman AM, Manly JJ, Tosto G, Kizil C, Farrer LA, Mez J, Chung J, Vardarajan BN, Mayeux R. “[Genome-wide Gene-based study in Multi-ethnic Cohorts identifies Genes that Interact with Vascular Risk Factors in Alzheimer’s Disease.](https://adpd2024.kenes.com/junior-faculty-awards/)” Alzheimer's & Parkinson's Diseases and related neurological disorders (AD/PD), Lisbon, Portugal, contributed. (03/2024)
 
 &nbsp;
+
+<div style="text-align: center;">
+![Data Science Day 2024, Columbia University](images/data_science_day.jpg){width=40%}
+</div>

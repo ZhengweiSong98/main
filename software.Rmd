@@ -27,3 +27,12 @@ More specifically, the model implemented in this package utilizes a modelling fr
 [3] [Kerioui et al. Modelling the association between biomarkers and clinical outcome: An introduction to nonlinear joint models. Br J Clin Pharm, 2022.](https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.15200)
 
 The models are implemented in [Stan](https://mc-stan.org/), and the package provides a flexible user interface.
+
+&nbsp;
+
+<div style="text-align: center;">
+  <img src="images/roche_all.jpg" style="width: 45%;" />
+  <p style="text-align: center; font-weight: light;">Biostatistics Intern at Roche Diagnostics, 2022</p>
+</div>
+
+&nbsp;

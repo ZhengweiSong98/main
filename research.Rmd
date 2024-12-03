@@ -9,10 +9,10 @@ editor_options:
 
 &nbsp;
 
-### Broadening gene discovery for AD by incorporating additional cardiovascular and cerebrovascular risk factors and examining the multi-omics profiles of genes to unravel their mechanisms and causal pathways
+### 1. Broadening gene discovery for AD by incorporating additional cardiovascular and cerebrovascular risk factors and examining the multi-omics profiles of genes to unravel their mechanisms and causal pathways
 
 
-##### [Multi-ancestry Genome-wide Gene-Vascular Risk Factors Interaction Analyses in Alzheimer’s Disease](https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/93041)
+##### 1.1 [Multi-ancestry Genome-wide Gene-Vascular Risk Factors Interaction Analyses in Alzheimer’s Disease](https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/93041)
 
 ####### Background
 
@@ -30,16 +30,18 @@ The interaction of CVRF score with FMNL2 on AD (p=1.02E-05) was identified and a
 
 We identified novel candidate genes that interact with CVRFs on AD in multi-ethnic cohorts. Understanding the interplay between genes, CVRFs, and AD has the potential to reveal novel molecular targets for prevention and treatment for AD.
 
-##### Multi-omics integration via Similarity Network Fusion (SNF) for identifying molecular subtypes of aging, for effective treatments with cerebrovascular factors
+##### 1.2 Multi-omics integration via Similarity Network Fusion (SNF) for identifying molecular subtypes of aging, for effective treatments with cerebrovascular factors
 
 &bull; Multi-omic integration via similarity network fusion to detect molecular subtypes of aging ([Silde](projects/Multi-omic integration via similarity network fusion to detect molecular subtypes of ageing.pdf))
 
 &bull; Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets ([Slide](projects/molecular subtyping.pdf))
 
-##### Multi-ancestry mQTL analysis of human brain identifies candidate causal variants for brain-related traits
+##### 1.3 Multi-ancestry mQTL analysis of human brain identifies candidate causal variants for brain-related traits
 
-### Enhancing Breast Cancer Risk Prediction in Hispanic Women Through Transfer Learning
+### 2. Enhancing Breast Cancer Risk Prediction in Hispanic Women Through Transfer Learning
 
-### Data-driven dynamic modeling for Alzheimer’s disease (AD) progression
+[Interim Report](research/transfer_learning_intrm.pdf)
 
-### Adaptive Treatment Design and Multi-Armed Bandit Optimization
+### 3. Data-driven dynamic modeling for AD progression
+
+### 4. Adaptive Treatment Design and Multi-Armed Bandit Optimization
