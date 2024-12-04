@@ -9,7 +9,7 @@ editor_options:
 
 &nbsp;
 
-<img src="images/jmpost.png" style="width:20%; margin: 0px 0px 1ch 2ch" align="right">
+<img src="images/jmpost.png" style="width:15%; margin: 0px 0px 1ch 2ch" align="right">
 
 ### [jmpost](https://github.com/Genentech/jmpost?tab=readme-ov-file)
 
