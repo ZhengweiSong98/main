@@ -9,6 +9,8 @@ editor_options:
 
 &nbsp;
 
-1.	Lee AJ, Cui Z* , **Song Z*** , Reyes-Dumeyer D, De Jager PL, Bennett DA, Schneider JA, Menon V, Wang Y, Lantigua RA, Medrano M, Rivera D, Jiménez-Velázquez IZ, Kukull WA, Brickman AM, Manly JJ, Tosto G, Kizil C, Farrer LA, Mez J, Chung J, Vardarajan BN, Mayeux R. Genome-wide gene-based study in multi-ethnic cohorts identifies genes that interact with vascular risk factors in Alzheimer’s Disease. In preparation for JAMA Neurology. *Contributed equally.
+1. Lee AJ, Cui Z*, **Song Z***, Reyes-Dumeyer D, De Jager PL, Bennett DA, Schneider JA, Menon V, Wang Y, Lantigua RA, Medrano M, Rivera Mejia D, Jiménez-Velázquez IZ, Kukull WA, Biber SA, Brickman AM, Tosto G, Kizil C, Farrer LA, Mez J, Chung J, Vardarajan BN, Mayeux R. Multi-ancestry genome-wide gene-vascular risk factors interaction analyses in Alzheimer's disease. Alzheimer's & dementia. 2024;20:e093041. doi:10.1002/alz.093041. *Contributed equally. (2025/1)
 
-2.	**Song Z**, Lee AJ. Integrated Transcriptomics and Epigenomics Analysis Identifies Molecular Subtypes of Alzheimer's Disease. In preparation for Neurology.
+2. Lee AJ, Cui Z*, **Song Z***, Reyes-Dumeyer D, De Jager PL, Bennett DA, Schneider JA, Menon V, Wang Y, Lantigua RA, Medrano M, Rivera Mejia D, Jiménez-Velázquez IZ, Kukull WA, Biber SA, Brickman AM, Tosto G, Kizil C, Farrer LA, Mez J, Chung J, Vardarajan BN, Mayeux R. Basic Science and Pathogenesis. Alzheimer's & dementia. 2024;20:e093041. *Contributed equally. (2024/12)
+
+3.	**Song Z**, Lee AJ. Integrated Transcriptomics and Epigenomics Analysis Identifies Molecular Subtypes of Alzheimer's Disease. In preparation for Neurology.
