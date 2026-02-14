@@ -18,13 +18,14 @@ navbar:
       href: experience_projects.html
   right:
     - text: "CV"
-      href: CV/CV_Dec2024.pdf
+      href: CV/CV_Oct2025.pdf
     - text: "Scholar"             
       icon: fab fa-google       
       href: https://scholar.google.com/citations?user=VR3M7qoAAAAJ&hl=en
 output:
   html_document:
-    theme: 
+    theme:
+      version: 4        
       bootswatch: minty
     includes:
       after_body: footer.html
