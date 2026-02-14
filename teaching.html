@@ -364,7 +364,7 @@ BEST, 2023
 </div>
 </div>
 
-<footer class="bg-primary text-white" style="margin-top: 60px; padding-top: 40px; padding-bottom: 20px; width: 100%;">
+<footer id="site-footer" class="bg-primary text-white" style="width: 100%; padding-top: 40px; padding-bottom: 20px;">
     
     <div class="container">
         
@@ -403,14 +403,18 @@ BEST, 2023
         </div>
 
     </div>
-
 </footer>
 
 <script>
-    // 自动获取当前年份
+    // 1. 搬运 Footer：将其移出 main-container，放到 body 的最后，实现全屏宽度
+    document.addEventListener("DOMContentLoaded", function() {
+        var footer = document.getElementById('site-footer');
+        document.body.appendChild(footer);
+    });
+
+    // 2. 自动更新时间
     document.getElementById('copyright-year').textContent = new Date().getFullYear();
     
-    // 自动获取最后修改时间
     var date = new Date(document.lastModified);
     var options = { year: 'numeric', month: 'long' };
     document.getElementById('last-updated').textContent = date.toLocaleDateString('en-US', options);
