@@ -10,11 +10,11 @@ editor_options:
 
 &nbsp;
 
-### Industries
-
 <div style="text-align: center;">
 ![](images/lcc.jpg){width=100%}
 </div>
+
+### Industries
 
 &bull; [2021 Weibo Entertainment White Paper](https://weibo.cn/sinaurl?u=https%3A%2F%2Fv2.rabbitpre.com%2Fm2%2FFw90XhQYdRi)
 

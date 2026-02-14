@@ -19,11 +19,12 @@ navbar:
   right:
     - text: "CV"
       href: CV/CV_Dec2024.pdf
-    - icon: fa-brands fa-linkedin
-      href: https://www.linkedin.com/in/zhengwei-song/
-    - icon: fa-light fa-book-atlas
+    - text: "Scholar"             
+      icon: fab fa-google       
       href: https://scholar.google.com/citations?user=VR3M7qoAAAAJ&hl=en
 output:
   html_document:
     theme: 
       bootswatch: minty
+    includes:
+      after_body: footer.html

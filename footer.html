@@ -1,0 +1,23 @@
+<hr />
+<div style="text-align: center; font-size: 0.9em; color: #6c757d;">
+    <p>
+        Copyright &copy; <span id="copyright-year"></span> Zhengwei Song. All rights reserved.
+    </p>
+    <p>
+        Last updated: <span id="last-updated"></span>
+    </p>
+</div>
+
+<script>
+    // 1. 自动设置版权年份为当前年份
+    document.getElementById('copyright-year').textContent = new Date().getFullYear();
+
+    // 2. 自动设置 "Last updated" 为构建时间
+    // document.lastModified 会读取该 HTML 文件最后一次生成的时间
+    var date = new Date(document.lastModified);
+    
+    // 设置显示格式：例如 "February 2026"
+    var options = { year: 'numeric', month: 'long' };
+    // 如果想要中文格式 "2026年2月"，把 'en-US' 改为 'zh-CN'
+    document.getElementById('last-updated').textContent = date.toLocaleDateString('en-US', options);
+</script>
